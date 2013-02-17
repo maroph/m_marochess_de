@@ -17,7 +17,7 @@
 
 <section>
 <p>
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/deed.en"><img alt="Creative Commons License" title="Creative Commons License" style="border-width:0px;" src="http://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a><br/><span>The data on this web site</span> by <a href="http://m.marochess.de/">Manfred Rosenboom</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/deed.en">Creative Commons Attribution 3.0 Germany License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/deed.en"><img alt="Creative Commons License" title="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a><br/><span>The data on this web site</span> by <a href="http://m.marochess.de/">Manfred Rosenboom</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/deed.en">Creative Commons Attribution 3.0 Germany License</a>.
 </p>
 <p>Copyright (under above license) 1996 - 2013 Manfred Rosenboom</p>
 <p>

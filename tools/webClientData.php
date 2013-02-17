@@ -12,17 +12,16 @@
 <link rel="stylesheet" type="text/css" href="../includes/layout.css" media="all"/>
 <link rel="shortcut icon" href="../images/favicon.ico">
 <script type="text/javascript">
-<!-- Begin
 function getDate() {
-d = new Date();
-dstr  = "";
+var d = new Date();
+    var dstr  = "";
 if (d.getYear() >= 2000)
   dstr += d.getYear();
 else
   dstr += d.getYear() + 1900;
 dstr += "-";
 
-n = d.getMonth() + 1;
+var n = d.getMonth() + 1;
 if (n < 10)
   dstr += "0";
 dstr += n;
@@ -59,19 +58,18 @@ else
   dstr += "-";
   n = -1 *n;
  }
-h = n / 60;
+var h = n / 60;
 if (h < 10)
   dstr += "0";
 dstr += h;
 
-m = n % 60;
+var m = n % 60;
 if (m < 10)
   dstr += "0";
 dstr += m;
 
 return dstr;
 }
-// End -->
 </script>
 </head>
 <body>
@@ -91,13 +89,11 @@ $remoteHost    = gethostbyaddr($_SERVER['REMOTE_ADDR']);
 <tr><td><b>IP Address:</b></td> <td><? print($remoteAddress); ?></td></tr>
 <tr><td><b>Host:</b></td>       <td><? print($remoteHost); ?></td></tr>
 <script type="text/javascript">
-<!-- Begin
 if (screen != null) {
 document.write("<tr><td><b>Screen</b>:</td><td>w: " + screen.width + " , h: " + screen.height + "</td></tr>");
 }
 d = new Date();
 document.write("<tr><td><b>Agent Time</b>:</td><td>" + getDate() + "</td></tr>");
-// End -->
 </script>
 <tr><td><b>Server Time:</b></td> <td><? print(date("Y-m-d\\TH:i:sO")); ?></td></tr>
 </table>
