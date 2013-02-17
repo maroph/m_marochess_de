@@ -1,0 +1,74 @@
+/*
+ * Author      : Manfred Rosenboom
+ * Site        : http://www.geocities.ws/marochess/
+ * Last Update : Sat, 9 Feb 2013 13:00:00 +0100
+ * License     : Creative Commons Attribution 3.0 Germany License
+ *               http://creativecommons.org/licenses/by/3.0/de/deed.en
+ * =============================================================================
+ */
+html { background-color: white; }
+body {
+    margin: 0; color: black; background-color: white;
+    font-size: 16px; font-style: normal; font-family: Helvetica, Arial, Verdana, sans-serif;
+    min-width: 340px;
+}
+nav { clear:both; display: block; margin: 5px 0 10px 0; padding: 5px 20px; font-size: 1em; }
+nav ul { margin: 0 0 0 10px; padding: 0; }
+header, footer {
+    clear:both; background-color: #e0e0e0;
+    margin: 0; padding-left: 10px; padding-top: 1px; padding-bottom: 1px;
+    display: block;
+}
+header h1 { font-weight: bold; font-size: 1.5em; }
+footer { font-size: 0.9em; }
+article, section { clear:both; display: block; margin-left: 10px; background-color: #ffffff; }
+aside,details,figcaption,figure,hgroup,summary { display: block; }
+audio,canvas,video { display: inline-block; }
+.nomobile { }
+.noprint {  }
+h1 { font-weight: bold; font-size: 1.2em; }
+a:link    { color:#0000ff; }
+a:visited { color:#800080; }
+a:focus   { color:#008000; outline: thin dotted; }
+a:hover   { color:#008000; outline: 0px; }
+a:active  { color:#ff0000; outline: 0px; }
+img { border: 0px; }
+pre { font-size: 1em; font-style:normal; font-family: "Courier New", monospace; white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
+small { font-size: 0.8em; }
+sub,sup { font-size: 0.75em; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+textarea { overflow: auto; vertical-align: top; }
+table { border-collapse: collapse; border-spacing: 0; }
+table, table tr, table td { border: 1px solid black;}
+table td { padding: 2px; }
+
+
+@media screen and (max-width: 400px) {
+    .nomobile { display:none; }
+}
+
+
+@media print {
+    * { color:#000 !important; box-shadow:none !important; text-shadow:none !important; background:transparent !important; }
+    html { background-color:#fff; }
+    body {
+        margin: 0; color: black; background-color: white;
+        font-size: 16px; font-style: normal; font-family: Helvetica, Arial, Verdana, sans-serif;
+    }
+    header, footer {
+        background-color: #fff; padding: 3px; font-size: 1em;
+        margin-left: 5px; padding-top: 1px; padding-bottom: 1px;
+        display: block;
+    }
+    header { border-top: 0px; border-bottom: 3px; border-bottom-style: solid; border-left: 0px; border-right: 0px; }
+    footer { border-top: 3px; border-top-style: solid; border-bottom: 0px; border-left: 0px; border-right: 0px; }
+    article,section { margin-left: 10px; background-color: #fff; }
+    .noprint { display:none; }
+    a[href]:after { content: " (" attr(href) ") "; }
+    a[href] { font-weight:bold; text-decoration:underline; color:#06c; border:none; }
+    a[href^="javascript:"]:after, a[href^="#"]:after { content:""; }
+    abbr[title]:after { content: " (" attr(title) ")"; }
+    figure { margin-bottom:1em; overflow:hidden; }
+    figure img { border:1px solid #000; }
+}
