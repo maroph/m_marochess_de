@@ -101,7 +101,7 @@ document.write("<tr><td><b>Agent Time</b>:</td><td>" + getDate() + "</td></tr>")
 
 <section>
 <ul>
-<li><a href="./index.php">Zur&uuml;ck</a></li>
+<li><a href="./index.php">Back</a></li>
 </ul>
 </section>
 
