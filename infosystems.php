@@ -21,18 +21,20 @@
 <ul>
 <li><a href="http://mobile.bahn.de/">Bahn</a></li>
 <li><a href="http://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?">Bahn - Abfahrt/Ankunft</a></li>
+<li><a href="http://www.mijnwoordenboek.nl/">Mijn Woordenboek</a> (Nederlands,Engels,Duits,Frans,Spaans)</li>
 <li><a href="http://efa.mvv-muenchen.de/mobile/index_de.html">MVV</a></li>
 <li><a href="http://m.wetteronline.de/">Wetter Online</a></li>
-<li><a href="http://m.wetteronline.de/cgi-bin/suchen?L=de&WO=____&ORT=80807">Wetter Online - M&uuml;nchen</a></li>
+<li><a href="http://m.wetteronline.de/cgi-bin/suchen?L=de&WO=____&ORT=80807">Wetter Online - München</a></li>
 <li><a href="http://de.m.wikipedia.org/">Wikipedia - Deutsch</a></li>
 <li><a href="http://en.m.wikipedia.org/">Wikipedia - English</a></li>
 <li><a href="http://nl.m.wikipedia.org/">Wikipedia - Nederlands</a></li>
+<li><a href="http://woordenlijst.org/">Woordenlijst Nederlandse Taal</a></li>
 </ul>
 </section>
 
 <section>
 <ul>
-<li><a href="./index.php">Zur&uuml;ck</a></li>
+<li><a href="./index.php">Back</a></li>
 </ul>
 </section>
 

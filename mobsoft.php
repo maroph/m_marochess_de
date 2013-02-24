@@ -22,6 +22,9 @@
 <li><a href="http://m.doodle.com/">Doodle</a></li>
 <li><a href="http://www.evernote.com/m/">Evernote</a></li>
 <li><a href="http://m.facebook.com/">Facebook</a></li>
+<li><a href="http://m.gmail.com/">Google Mail</a></li>
+<li><a href="http://www.google.com/gwt/n">Google Mobile Rendering Engine</a></li>
+<li><a href="http://m-email.t-online.de/">T-Online Mail</a></li>
 <li><a href="http://m.twitter.com/maroph">Twitter</a></li>
 <li><a href="http://m.yahoo.com/mail">Yahoo Mail</a></li>
 <li><a href="http://m.youtube.com/">YouTube</a></li>
@@ -30,7 +33,7 @@
 
 <section>
 <ul>
-<li><a href="./index.php">Zur&uuml;ck</a></li>
+<li><a href="./index.php">Back</a></li>
 </ul>
 </section>
 
