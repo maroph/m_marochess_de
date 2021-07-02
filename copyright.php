@@ -16,14 +16,14 @@
 
 <section>
 <p>
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
 </p>
 <p>Copyright (under above license) 1996 - 2021 Manfred Rosenboom</p>
 </section>
 
 <footer>
 <p>
-<span class="noprint nomobile">Validate <a href="http://validator.w3.org/check/referer" target="_blank">HTML</a> , Validate <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS</a><br/></span>
+<span class="noprint nomobile">Validate <a href="https://validator.w3.org/check/referer" target="_blank">HTML</a> , Validate <a href="https://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS</a><br/></span>
 Last updated: <?php echo(date("r", filemtime($_SERVER['SCRIPT_FILENAME']))); ?><br/>
 <a href="https://manfred.rosenboom.name/" target="_blank">Manfred Rosenboom</a>
 </p>

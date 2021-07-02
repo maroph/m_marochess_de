@@ -18,8 +18,8 @@
 
 <section>
 <ul>
-<li><a href="http://www.dilbert.com/fast">Dilbert</a></li>
-<li><a href="http://www.shredderchess.com/android/">Shredder Chess for Android</a></li>
+<li><a href="https://www.dilbert.com/fast">Dilbert</a></li>
+<li><a href="https://www.shredderchess.com/android/">Shredder Chess for Android</a></li>
 </ul>
 </section>
 

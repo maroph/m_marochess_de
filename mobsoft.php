@@ -18,12 +18,12 @@
 
 <section>
 <ul>
-<li><a href="http://www.evernote.com/m/">Evernote</a></li>
-<li><a href="http://m.facebook.com/">Facebook</a></li>
-<li><a href="http://m.gmail.com/">Google Mail</a></li>
-<li><a href="http://m.twitter.com/maroph">Twitter</a></li>
-<li><a href="http://m.yahoo.com/mail">Yahoo Mail</a></li>
-<li><a href="http://m.youtube.com/">YouTube</a></li>
+<li><a href="https://www.evernote.com/m/">Evernote</a></li>
+<li><a href="https://m.facebook.com/">Facebook</a></li>
+<li><a href="https://m.gmail.com/">Google Mail</a></li>
+<li><a href="https://m.twitter.com/maroph">Twitter</a></li>
+<li><a href="https://m.yahoo.com/mail">Yahoo Mail</a></li>
+<li><a href="https://m.youtube.com/">YouTube</a></li>
 </ul>
 </section>
 
